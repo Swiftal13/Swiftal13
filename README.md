@@ -17,11 +17,6 @@
 </div>
 
 <h2>The programmer</h2>
-<div id = "main" align = "center">
-
-
-
-</div>
 
 
 ---
