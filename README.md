@@ -24,6 +24,6 @@
 Elyas Sepahi, people refer to me as Swiftal.<br />
 
 
-[![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,stackoverflow,vscode,github,discord,linkedin,lua,figma&theme=light)](https://skillicons.dev)
+[![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
 
 </div>
