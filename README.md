@@ -1,3 +1,4 @@
+  <h1>The programmer</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
 </div>
@@ -14,7 +15,7 @@
   </a>
   </br>
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
-  <h2>The programmer</h2>
+
 </div>
 
 
