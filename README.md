@@ -3,7 +3,7 @@
 
 
 <div id="badges" align = "center">
-  <h1>The programmer</h1>
+  <h1>Programmer</h1>
   <a href="https://www.linkedin.com/in/elyas-sepahi-a3a90020a/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,5 +27,5 @@
 - Current Student
 - Often referred as Swiftal
 
-## Skills
+#### Skills
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
