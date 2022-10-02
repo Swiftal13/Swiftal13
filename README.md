@@ -27,3 +27,7 @@
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
 
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="600" height="300"/>
+</div>
