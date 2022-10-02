@@ -14,9 +14,10 @@
   </a>
   </br>
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
+  <h2>The programmer</h2>
 </div>
 
-<h2>The programmer</h2>
+
 
 
 ### About me
