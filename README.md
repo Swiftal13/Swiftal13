@@ -19,9 +19,9 @@
 
 <div id = "main" align = "center">
   
-### The programmer
+###The programmer
 
-Elyas Sepahi, people refer to me as Swiftal.<br />
+
 
 
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
