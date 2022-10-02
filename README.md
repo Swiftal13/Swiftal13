@@ -31,3 +31,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+### About me
+
+Elyas Sepahi
+- United Kingdom / GMT
+- Current Student
+- Often referred as Swiftal
