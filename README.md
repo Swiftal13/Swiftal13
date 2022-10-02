@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>The programmer</h1>
+<h2>The programmer</h2>
 <div id = "main" align = "center">
 
 
