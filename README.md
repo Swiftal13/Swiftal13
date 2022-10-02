@@ -19,7 +19,7 @@
 
 <div id = "main" align = "center">
   
-### The programmer
+<h1>The programmer</h1>
 
 
 
