@@ -1,8 +1,8 @@
-### The programmer
+                                                                    ### The programmer
 
-My name is Elyas Sepahi, people refer to me as Swiftal.
-15 years old
-United Kingdom / GMT
+                                                   My name is Elyas Sepahi, people refer to me as Swiftal.
+                                                                         Age: 15
+                                                                   United Kingdom / GMT
 
 
 Skillset:
