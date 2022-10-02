@@ -16,15 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<div id = "main" align = "center">
-  
 <h1>The programmer</h1>
+<div id = "main" align = "center">
 
 
-
-
-[![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -39,3 +34,5 @@ Elyas Sepahi
 - United Kingdom / GMT
 - Current Student
 - Often referred as Swiftal
+
+[![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
