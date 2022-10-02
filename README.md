@@ -29,3 +29,13 @@
 
 ### Skills
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
+
+### Current goals
+- Machine learning
+- Web development frameworks
+- Master Python
+- Lua Scripting
+- Develop Networking
+
+### End goal
+- Aerospace engineer/ Software Engineer
