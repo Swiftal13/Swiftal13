@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://esepahi.com/">
-    <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=esepahi.com&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/PersonalWebsite-purple?style=for-the-badge&logo=esepahi.com&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://swiftal.carrd.co/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio badge"/>
+    <img src="https://img.shields.io/badge/DevPortfolio-white?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio badge"/>
   </a>
   </br>
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
