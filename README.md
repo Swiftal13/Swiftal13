@@ -19,7 +19,6 @@
 <h2>The programmer</h2>
 
 
----
 ### About me
 
 Elyas Sepahi
