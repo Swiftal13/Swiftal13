@@ -38,4 +38,4 @@
 - Develop Networking
 
 ### End goal
-- Aerospace engineer/ Software Engineer
+- Aerospace engineer / Software Engineer
