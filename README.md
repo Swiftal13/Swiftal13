@@ -1,9 +1,10 @@
 
 
-
+<div id="top" align = "center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align = "center">
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <a href="https://www.linkedin.com/in/elyas-sepahi-a3a90020a/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
