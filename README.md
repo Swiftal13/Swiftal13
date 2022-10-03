@@ -23,7 +23,7 @@
 
 ### About me
 
-- United Kingdom / GMT
+- United Kingdom
 - Current Student
 - Often referred as Swiftal
 
