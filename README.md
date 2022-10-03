@@ -26,7 +26,7 @@
 
 - United Kingdom
 - Current Student (GCSEs)
-- Often referred as Swiftal
+- Elyas, Often referred as Swiftal
 
 ### 🚀 Current goals
 - Machine learning
