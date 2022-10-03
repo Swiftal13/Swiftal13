@@ -37,9 +37,9 @@
 - Data analysis
 
 ### 🌌 End goal
-- Aerospace engineer / Software Engineer
-- Python, C++, HTML, CSS JS Expert 
 - Computer Science degree at Cambridge
+- Python, C++, HTML, CSS JS Expert 
+- Aerospace engineer / Software Engineer
 
 ### 🔧 Skills
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
