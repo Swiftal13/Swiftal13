@@ -25,7 +25,7 @@
 ### 🎓 About me
 
 - United Kingdom
-- Current Student
+- Current Student (GCSEs)
 - Often referred as Swiftal
 
 ### 🚀 Current goals
