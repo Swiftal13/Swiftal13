@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/DevPortfolio-white?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio badge"/>
   </a>
   </br>
-  <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=flat-square&color=blueviolet" alt=""/>
 
 </div>
 
