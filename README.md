@@ -40,7 +40,7 @@
 
 ### 🌌 End goal
 - Computer Science degree at Cambridge
-- Python, C++, HTML, CSS JS Expert 
+- Python, C++, HTML, CSS, JS Expert 
 - Aerospace engineer / Software Engineer
 
 
