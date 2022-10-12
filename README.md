@@ -22,7 +22,7 @@
 
 
 
-### 🎓 About me
+###  About me 🎓
 
 - United Kingdom
 - Current Student (GCSEs)
