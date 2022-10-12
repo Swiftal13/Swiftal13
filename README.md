@@ -29,7 +29,7 @@
 - Elyas, Often referred as Swiftal
 
 
-### 🚀 Current goals
+###  Current goals
 - Machine learning
 - Web development frameworks
 - Master Python
@@ -38,7 +38,7 @@
 - Data analysis
 
 
-### 🌌 End goal
+###  End goal
 - Computer Science degree at Cambridge
 - Python, C++, HTML, CSS, JS Expert 
 - Aerospace engineer / Software Engineer
