@@ -48,7 +48,7 @@
 [![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github,discord,linkedin&theme=light)](https://skillicons.dev)
 
 
-### 👾 My Stats
+### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Swiftal13&theme=highcontrast&border_radius=4.2&date_format=j%2Fn%5B%2FY%5D&background=000000)](https://git.io/streak-stats)
 
 
