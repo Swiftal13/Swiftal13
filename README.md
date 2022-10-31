@@ -40,8 +40,8 @@
 
 ###  End goal
 - Computer Science degree at Cambridge
-- Python, C++, HTML, CSS, JS Expert 
-- Aerospace engineer / Software Engineer
+- Python, C++, JavaScript Expert 
+- Aerospace engineer / Software Engineer (SpaceX hire me)
 
 
 ### Skills
