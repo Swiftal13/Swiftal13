@@ -33,15 +33,15 @@
 - Machine learning
 - Web development frameworks
 - Master Python
-- Lua Scripting
+- Financial analysis
 - Develop Networking
 - Data analysis
 
 
 ###  End goal
 - Computer Science degree at Cambridge
-- Python, C++, JavaScript Expert 
-- Aerospace engineer / Software Engineer (SpaceX hire me)
+- Python, C++, FullStack Expert 
+- Aerospace engineer / Software Engineer (Google hire me)
 
 
 ### Skills
