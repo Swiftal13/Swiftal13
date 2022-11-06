@@ -26,7 +26,7 @@
 
 - United Kingdom
 - Current Student (GCSEs)
-- Python and FullStack enthusiast 
+- Python and Full Stack enthusiast 
 
 
 ###  Current goals
