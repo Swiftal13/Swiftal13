@@ -26,7 +26,7 @@
 
 - United Kingdom
 - Current Student (GCSEs)
-- Python and Full Stack enthusiast 
+- More info at http://esepahi.com/
 
 
 ###  Current goals
