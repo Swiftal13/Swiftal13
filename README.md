@@ -26,7 +26,7 @@
 
 - United Kingdom
 - Current Student (GCSEs)
-- Elyas, Often referred as Swiftal
+- Python and FullStack enthusiast 
 
 
 ###  Current goals
