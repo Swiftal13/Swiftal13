@@ -41,7 +41,7 @@
 ###  End goal
 - Computer Science degree at Cambridge
 - Python, C++, FullStack Expert 
-- Aerospace engineer / Software Engineer (Google hire me)
+- Aerospace engineer / Software Engineer
 
 
 ### Skills
