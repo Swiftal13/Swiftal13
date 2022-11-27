@@ -40,8 +40,8 @@
 
 ###  End goal
 - Computer Science degree at Cambridge
-- Python, C++, FullStack Expert 
-- Aerospace engineer / Software Engineer
+- Python, C++, Machine learning Expert 
+- Quant / Machine Learning / Software engineer
 
 
 ### Skills
