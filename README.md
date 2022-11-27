@@ -41,7 +41,7 @@
 ###  End goal
 - Computer Science degree at Cambridge
 - Python, C++, Machine learning Expert 
-- Quant / Machine Learning / Software engineer
+- Quantative / Machine Learning / Software engineer
 
 
 ### Skills
