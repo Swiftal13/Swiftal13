@@ -31,10 +31,10 @@
 
 ###  Current goals
 - Machine learning
-- Web development frameworks
+- TensorFlow
 - Master Python
 - Financial analysis
-- Develop Networking
+- NumPy
 - Data analysis
 
 
