@@ -32,16 +32,10 @@
 ###  Current goals
 - Machine learning
 - TensorFlow
-- Master Python
 - Financial analysis
 - NumPy
 - Data analysis
 
-
-###  End goal
-- Computer Science degree at Cambridge
-- Python, C++, Machine learning Expert 
-- Quantative / Machine Learning / Software engineer
 
 
 ### Skills
