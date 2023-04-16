@@ -23,7 +23,7 @@
 </br>
 </br>
 </br>
-</br>
+
 
 ###  About me 
 
@@ -39,6 +39,7 @@
 - NumPy
 - Data analysis
 
+</br>
 
 
 ### Skills
