@@ -25,11 +25,6 @@
 </br>
 
 
-###  About me 
-
-- United Kingdom
-- Current Student (GCSEs)
-- More info <a href="http://esepahi.com/">here</a>
 
 
 ###  Current goals
