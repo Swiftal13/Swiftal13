@@ -29,10 +29,7 @@
 
 ###  Current goals
 - Machine learning
-- TensorFlow/Pytorch
-- Financial analysis
-- NumPy
-- Data analysis
+- efficient code
 
 </br>
 
