@@ -29,7 +29,6 @@
 
 ###  Current goals
 - Machine learning
-- efficient code
 
 </br>
 
