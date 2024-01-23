@@ -10,8 +10,6 @@
   <a href="http://esepahi.com/">
     <img src="https://img.shields.io/badge/MyWebsite-purple?style=for-the-badge&logo=esepahi.com&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://swiftal.carrd.co/">
-    <img src="https://img.shields.io/badge/DevPortfolio-white?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio badge"/>
   </a>
   </br>
   <img src="https://komarev.com/ghpvc/?username=Swiftal13&style=plastic&color=blueviolet" alt=""/>
