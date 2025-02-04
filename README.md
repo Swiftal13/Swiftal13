@@ -32,7 +32,7 @@
 
 
 ### Skills
-[![Skill Set:](https://skillicons.dev/icons?i=py,html,css,js,nuxtjs,tailwind,lua,figma,stackoverflow,vscode,github)](https://skillicons.dev)
+[![Skill Set:](https://skillicons.dev/icons?i=py,lua,vscode)](https://skillicons.dev)
 
 
 ### My Stats
