@@ -4,7 +4,6 @@
 </div>
 
 <div id="badges" align = "center">
-  <a href="http://esepahi.com/">
     <img src="https://img.shields.io/badge/MyWebsite-purple?style=for-the-badge&logo=esepahi.com&logoColor=white" alt="Website Badge"/>
   </a>
   </a>
