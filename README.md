@@ -21,7 +21,7 @@
 
 
 ### Current goals
-- Machine learning
+- Machine learning / Deep learning
 - Fully learn stochastic calculus and linear algebra (uni)
 
 
