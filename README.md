@@ -18,11 +18,8 @@
 </br>
 
 
-
-
-### Current goals
 - Machine learning / Deep learning
-- Finish stochastic calculus and linear algebra (uni)
+- Advanced maths
 
 
 </br>
