@@ -18,15 +18,13 @@
 </br>
 
 
-- Machine learning / Deep learning
-- Advanced maths
+ Machine learning
+ I've lost direction dawg
+
 
 
 </br>
 
-
-### Skills
-[![Skill Set:](https://skillicons.dev/icons?i=py,lua,tensorflow,sklearn,pytorch,vscode,robloxstudio)](https://skillicons.dev)
 
 
 ### My Stats
